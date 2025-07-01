@@ -44,7 +44,7 @@ At RealExamCollection, we provide **accurate, exam-reflective, and regularly upd
 💸 **We stand behind our content — that’s why we offer a full money-back guarantee.**  
 If you unfortunately fail after using our dumps honestly, we’ll refund your payment — no questions asked. Your success is our goal, and we take pride in helping learners clear the AI-102 exam without stress.
 
-🚀 Trusted by thousands of candidates, RealExamCollection is your safest path to Microsoft AI certification.  
+🚀 RealExamCollection is your safest path to Microsoft AI certification.  
 👉 [Download Verified Dumps Now](https://www.realexamcollection.com/microsoft/ai-102-dumps.html)  
 🎁 **Click and get 20% discount before the offer gets expires!**
 

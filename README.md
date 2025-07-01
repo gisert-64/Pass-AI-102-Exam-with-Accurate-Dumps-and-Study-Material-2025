@@ -2,6 +2,11 @@
 ![Exam Code](https://img.shields.io/badge/AI--102-Microsoft%20Identity-orange?style=flat-square&logo=microsoft)
 ![Updated](https://img.shields.io/badge/Updated-2025-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-informational?style=flat-square&logoColor=skyblue)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=examleads.ai102)
+![Last Updated](https://img.shields.io/badge/Updated-July%202025-brightgreen)
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 # 🎯 Pass AI-102 Exam in First Attempt (2025) – Verified Dumps by RealExamCollection
 
 Welcome to the **official GitHub repo** by [RealExamCollection](https://www.realexamcollection.com), where we provide **100% verified, updated, and honest** AI-102 exam dumps to help you pass the **Microsoft Azure AI Engineer Associate (AI-102)** exam on your **first attempt**.

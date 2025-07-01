@@ -65,7 +65,7 @@ If you unfortunately fail after using our dumps honestly, we’ll refund your pa
 - ❌ No password-protected files  
 - ✅ All content is verified and user-recommended  
 - ✅ You can preview before buying
-👉 [AI-102-Sample-Questions.pdf](./AI-102-Sample-Questions-RealExamCollection.pdf)
+👉 [AI-102-Sample-Questions.pdf](AI-102-Sample-Questions-RealExamCollection.pdf)
 
 
 ## 👥 Who Are We?

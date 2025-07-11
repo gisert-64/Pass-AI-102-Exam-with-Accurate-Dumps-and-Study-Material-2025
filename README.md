@@ -1,4 +1,4 @@
-z![PDF Size](https://img.shields.io/badge/PDF-Preview-blue?style=flat-square&logo=adobeacrobatreader&logoColor=yellow)
+![PDF Size](https://img.shields.io/badge/PDF-Preview-blue?style=flat-square&logo=adobeacrobatreader&logoColor=yellow)
 ![Exam Code](https://img.shields.io/badge/AI--102-Microsoft%20Identity-orange?style=flat-square&logo=microsoft)
 ![Updated](https://img.shields.io/badge/Updated-2025-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-informational?style=flat-square&logoColor=skyblue)

@@ -1,4 +1,4 @@
-![PDF Size](https://img.shields.io/badge/PDF-Preview-blue?style=flat-square&logo=adobeacrobatreader&logoColor=yellow)
+z![PDF Size](https://img.shields.io/badge/PDF-Preview-blue?style=flat-square&logo=adobeacrobatreader&logoColor=yellow)
 ![Exam Code](https://img.shields.io/badge/AI--102-Microsoft%20Identity-orange?style=flat-square&logo=microsoft)
 ![Updated](https://img.shields.io/badge/Updated-2025-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-informational?style=flat-square&logoColor=skyblue)
@@ -27,8 +27,7 @@ Looking for **authentic and trusted dumps** to prepare for the AI-102 exam? Down
 
 ## 🧠 How to Pass AI-102 Exam in First Attempt (Honest Strategy)
 
-We don’t believe in shortcuts. Here’s the **real method** followed by hundreds of successful candidates:
-
+We don’t believe in shortcuts. Here’s the **real method**:
 ### Step 1: Understand the Syllabus  
 🔗 [Microsoft Official AI-102 Skills Outline](https://www.realexamcollection.com/microsoft/ai-102-dumps.html)
 
